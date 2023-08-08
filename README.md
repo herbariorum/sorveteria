@@ -1,6 +1,6 @@
 # SORVETERIA
 Exemplo de aplicação usando ttkbootstrap
-
+![Alt text](sorveteria.png)
 ## Crie o diretório do app
 $ mkdir sorveteria
 
